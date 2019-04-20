@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetNote", "DotNetNote\DotNetNote.csproj", "{D60FCD9B-D1EF-4612-B63C-67D751428C3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetNote.Models", "DotNetNote.Models\DotNetNote.Models.csproj", "{D3997F71-3BAE-4870-8F59-8DED44B50644}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DotNetNote.Database", "DotNetNote.Database\DotNetNote.Database.sqlproj", "{DF4068A5-093A-4F43-91A1-DB27DA598AC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D60FCD9B-D1EF-4612-B63C-67D751428C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60FCD9B-D1EF-4612-B63C-67D751428C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60FCD9B-D1EF-4612-B63C-67D751428C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60FCD9B-D1EF-4612-B63C-67D751428C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3997F71-3BAE-4870-8F59-8DED44B50644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3997F71-3BAE-4870-8F59-8DED44B50644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3997F71-3BAE-4870-8F59-8DED44B50644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3997F71-3BAE-4870-8F59-8DED44B50644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF4068A5-093A-4F43-91A1-DB27DA598AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF4068A5-093A-4F43-91A1-DB27DA598AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF4068A5-093A-4F43-91A1-DB27DA598AC5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DF4068A5-093A-4F43-91A1-DB27DA598AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF4068A5-093A-4F43-91A1-DB27DA598AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF4068A5-093A-4F43-91A1-DB27DA598AC5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A198E08-A558-47D0-88C0-A20664E2D6A8}
+	EndGlobalSection
+EndGlobal
