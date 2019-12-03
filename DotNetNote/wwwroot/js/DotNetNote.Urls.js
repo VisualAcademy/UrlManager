@@ -76,7 +76,7 @@ var urlManager = (function () {
                             if (cur > popupCount) {
                                 break;
                             }
-                            if (popupPage == cur) {
+                            if (popupPage === cur) {
                                 html += "<a href='#' class='on'>" + cur + "</a> ";
                             } else {
                                 html += "<a href='javascript:urlManager.renderUrlList(" + cur + ");'>" + cur + "</a> ";
@@ -187,7 +187,7 @@ var urlManager = (function () {
                         }
                     },
                     error: function (jqXHR, textStatus, errorThrown) {
-                        console.log("공지사항 상세정보를 가져오던 중, 알 수 없는 오류가 발생했습니다.");
+                        console.log("URL 상세정보를 가져오던 중, 알 수 없는 오류가 발생했습니다.");
                     }
                 });
             } catch (e) {
