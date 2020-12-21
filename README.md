@@ -11,3 +11,7 @@ https://github.com/VisualAcademy/DotNetNote
 
 https://www.dotnetnote.com 사이트를 통해서 테스트를 할 수 있습니다.
 
+## 데브렉
+
+현재 프로젝트를 만드는 과정은 데브렉(http://www.devlec.com) 사이트를 통해서 서비스가 됩니다.
+
