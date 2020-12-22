@@ -15,3 +15,7 @@ https://www.dotnetnote.com 사이트를 통해서 테스트를 할 수 있습니
 
 현재 프로젝트를 만드는 과정은 데브렉(http://www.devlec.com) 사이트를 통해서 서비스가 됩니다.
 
+## "ASP.NET Core Fundamentals (2.1, 3.1, 5.0 버전 공통)" 강좌 재생 목록
+
+https://www.youtube.com/playlist?list=PLO56HZSjrPTCUfmhgVnGertM_53BNQ_5V
+
